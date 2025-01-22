@@ -1,0 +1,7 @@
+* JS *
+1) Event loop 
+2) Macrotask And Microtask
+3) Map, Filter and Reduce Methods
+4) Promises vs Async Await
+5) Factors Responsible For UI improve Performance 
+6) Debuggging Techniques
